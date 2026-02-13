@@ -23,7 +23,6 @@
     background-position: center;
     **/
     
-    background-color:;
 }
 
 .hdr{
@@ -121,4 +120,20 @@
     justify-content: center;
     align-items: center;
     width: max-content;
+}
+
+.bgc{
+    background-image: url("assets/Picsart_26-02-13_13-06-45-281.png");
+    background-position-x: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.title{
+    width: 30%;
+    height: 30%;
+    color: #ffffff;
+    font-family: poppins;
+    text-align: justify;
 }
